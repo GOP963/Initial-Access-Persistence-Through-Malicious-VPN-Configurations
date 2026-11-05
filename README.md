@@ -24,4 +24,12 @@ VPN configuration files should not automatically be considered harmless configur
 
 This research highlights the importance of treating untrusted VPN profiles as potentially executable content and monitoring VPN-related process creation and child-process activity.
 
-#CyberSecurity #ThreatResearch #InitialAccess #Persistence #OpenVPN #CiscoAnyConnect #EDR #EDREvasion #RedTeam #PurpleTeam #ThreatHunting #MalwareResearch
+# Demo Execute Mimikatz
+
+https://github.com/user-attachments/assets/77ccf618-12d2-49fe-986d-45d37e9d906e
+
+# Demo Reverse Shell
+
+https://github.com/user-attachments/assets/a9957284-464f-4389-b1e4-2357c428c153
+
+
